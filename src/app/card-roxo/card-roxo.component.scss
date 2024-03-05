@@ -1,0 +1,26 @@
+@import url("https://fonts.google.com/icons");
+
+.card__roxo{
+  max-width: 350px;
+  background-color: purple;
+  border-radius: 25px;
+  padding: 30px;
+  font-family: "Poppins ",sans-serif;
+}
+.card__item{
+  padding: 10px;
+}
+.card__plan{
+  font-size: 22px;
+}
+.card__price{
+  font-weight: 680px;
+  font-size: 48px;
+}
+.card__button{
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 10px;
+  border-radius: 25px;
+  background-color:white;
+}
